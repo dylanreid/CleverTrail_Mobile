@@ -1,0 +1,48 @@
+/* Copyright 2011 CleverTrail.com.  All Rights Reserved. */
+
+/* toolbar at the top of the page: logo, search, login, etc */
+#divToolbar {
+	font-size: 105%;
+	height: 38px;	
+}
+
+/* Logo for CleverTrail */
+#divCleverTrailLogo {
+	height: 38px;
+	line-height: 38px;
+	font-size:110%;
+}
+
+
+/* Search box */
+#divTrailSearch {
+	margin-left: 180px;
+	height: 38px;
+}
+
+#txtTrailSearchInput {
+	height: 34px;
+	line-height: 34px;
+	font-size:105%;
+	width: 300px;
+}
+
+#btnTrailSearchInput {
+	height: 36px;
+}
+
+/* the user action area: my watchlist, contributions, login, etc */
+#divUserActions {	
+	line-height: 36px;
+}
+
+
+/* When user actions take the form of a drop down if the user is logged in */
+#imgUserActionsDropDown {
+	height: 34px;
+}
+
+#ulUserActionsDropDown {
+	line-height: 38px;
+}
+

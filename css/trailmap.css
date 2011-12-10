@@ -1,0 +1,104 @@
+/* Copyright 2011 CleverTrail.com.  All Rights Reserved. */
+
+#divHomepageSearchMap {
+	top: 500px;
+	left: 10px;
+}
+
+#divCategorySearchMap {
+	top: 435px;
+	left: 10px;
+}
+
+#divUserSearchMap {
+	top: 435px;
+	left: 10px;
+}
+#divFilterHomepageTrailMap {
+	top: 287px;
+	right: 2%;
+}
+
+#divFilterCategoryTrailMap {
+	top: 155px;
+	right: 11%;
+}
+
+#divFilterUserTrailMap {
+	top: 155px;
+	right: 11%;
+}
+
+#divHomepageTrailMap {
+	margin-left: 2px;
+	height: 500px;
+	width: 99%;
+}
+
+#divCategoryTrailMap {
+	margin-top: -20px;
+	margin-left: 0px;
+	width: 90%;
+}
+
+#divUserTrailMap {
+	margin-top: -20px;
+	margin-left: 0px;
+	width: 90%;
+}
+
+#divHomepageTrailMapLoading {
+	margin-left:2px;
+	height: 500px;
+	width: 99%;
+}
+
+#divCategoryTrailMapLoading {
+	margin-top: -20px;
+	margin-left: 0px;
+	width: 90%;
+}
+
+#divUserTrailMapLoading {
+	margin-top: -20px;
+	margin-left: 0px;
+	width: 90%;
+}
+
+#txtSearchMap {
+	width:300px;
+	font-size:110%;
+	height: 38px;
+	line-height: 38px;
+}
+
+#btnSearchMap {
+	height: 40px;
+	width: 27px;
+}
+
+/* puts a border around the trail use icons */
+.clsTrailUseImage {
+	border: #ddd 1px solid;
+	border-radius: 3px;
+}
+
+#divFilterHomepageTrailMapExpand{
+	top: 510px;
+	right: 2%;	
+}
+
+#divFilterCategoryTrailMapExpand{
+	top: 442px;
+	right: 11%;	
+}
+
+#divFilterUserTrailMapExpand{
+	top: 442px;
+	right: 11%;	
+}
+
+.clsFilterTrailMapExpand{
+	height: 35px;
+	line-height:35px;
+}
