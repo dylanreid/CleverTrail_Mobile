@@ -3,12 +3,12 @@
 /* toolbar at the top of the page: logo, search, login, etc */
 #divToolbar {
 	font-size: 105%;
-	height: 38px;	
+	height: 40px;	
 }
 
 /* Logo for CleverTrail */
 #divCleverTrailLogo {
-	height: 38px;
+	height: 40px;
 	line-height: 38px;
 	font-size:110%;
 }

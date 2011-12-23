@@ -51,9 +51,8 @@ function drawToolBar($userName, $personalUrls, $searchTerm, $numTrailsFinished) 
 		<input type="hidden" id="txtScriptPath" name="txtScriptPath" value="<?php echo $wgScriptOfWiki; ?>">
 		
 		<div id="divCleverTrailLogo">
-			<a style="color: #fff" href="<?php echo $wgMobileServer; ?>">
-			<img id="imgCleverTrailLogo" src="http://clevertrail.com/images/upperleftlogo.jpg"></a>&nbsp;&nbsp;&nbsp;
-			<a style="color: #fff; text-decoration:none;" href="<?php echo $wgMobileServer; ?>">CleverTrail</a>
+			<a href="<?php echo $wgMobileServer; ?>">
+			<img id="imgCleverTrailLogo" src="http://clevertrail.com/images/logo-40px-white-on-grey.png" height="40px"></a>
 		</div>
 		<div id="divTrailSearch">		
 			<form action="<?php echo $wgScriptOfWiki ?>" id="searchform">
